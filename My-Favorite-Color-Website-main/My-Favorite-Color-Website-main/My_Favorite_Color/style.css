@@ -1,0 +1,11 @@
+/*set page background and font*/
+body{
+    background-color: crimson;
+    color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1;
+}
+/*Change Heading Font*/
+h1 {
+    color:gold;
+}
